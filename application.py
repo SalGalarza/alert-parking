@@ -41,7 +41,7 @@ def userData():
 
 
     # return "{}".format(str(info))
-    return "number in loc:{}, coords:{}, ".format(str(data),l)
+    return "number in loc:{}, coords:{}, ".format(str(ii),l)
 
 
 

@@ -4,3 +4,4 @@ Flask-Sessions==0.1.5
 requests==2.14.2
 sql==0.4.0
 SQLAlchemy==1.2.15
+gunicorn==19.9.0
