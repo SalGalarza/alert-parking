@@ -59,7 +59,7 @@ def testData():
 
 
 
-def main(a,b):
+def main():
     app.run(debug=True, port=int(os.environ.get('PORT', 5000)))
 
 if __name__ == '__main__':
