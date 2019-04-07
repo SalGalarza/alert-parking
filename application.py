@@ -81,7 +81,7 @@ def userData():
 # 23
     # x = data['results'][0]['data']['location']['coordinates'] == [-76.151675, 43.039448]
 
-    crime1 = 'Stolen Property'
+    # crime1 = 'Stolen Property'
 
 
     # return "{}".format(str(coordinates))
